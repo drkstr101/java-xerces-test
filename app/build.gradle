@@ -19,6 +19,7 @@ repositories {
 dependencies {
     // This dependency is used by the application.
     implementation libs.guava
+    implementation 'xerces:xercesImpl:2.12.2'
 }
 
 testing {
